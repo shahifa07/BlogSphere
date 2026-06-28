@@ -11,6 +11,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BlogSphere">
         <activity
+            android:name=".EditBlogActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BlogDetailActivity"
+            android:exported="false" />
+        <activity
             android:name=".CreateBlogActivity"
             android:exported="false" />
         <activity

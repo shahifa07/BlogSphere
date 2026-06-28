@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "540103906076",
+    "project_id": "blogsphere-cafb5",
+    "storage_bucket": "blogsphere-cafb5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540103906076:android:bc72084449d01f4e1b20d9",
+        "android_client_info": {
+          "package_name": "com.example.blogsphere"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb8K38A4qbmN2Dolx6RrKs8yZ2iNHPZbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
